@@ -32,7 +32,7 @@ Here are the technologies and tools I currently work with to bring ideas to life
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=loketoki&show_icons=true&theme=radium" alt="Francesco's GitHub Stats" width="48%" />
+  ![Statistiche GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=loketoki&theme=radium)  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=loketoki&theme=radium" alt="Francesco's GitHub Streak" width="48%" />
 </p>
 
